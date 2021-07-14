@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # No Word source file - PDF version only
-.docx
+*.docx
 
